@@ -1,0 +1,23 @@
+# Forrest's Field Tools
+
+> Free, no-signup reference pages and calculators for pets, gardens, homesteads and off-grid living.
+
+## Pet safe-food lists (vet-sourced)
+
+- [What can hamsters eat?](https://fscholtesdowd.github.io/pet-safe-foods/hamsters/): safe, go-easy and never-feed foods with sources
+- [What can guinea pigs eat?](https://fscholtesdowd.github.io/pet-safe-foods/guinea-pigs/): safe, go-easy and never-feed foods with sources
+- [What can rabbits eat?](https://fscholtesdowd.github.io/pet-safe-foods/rabbits/): safe, go-easy and never-feed foods with sources
+- [What can cats eat?](https://fscholtesdowd.github.io/pet-safe-foods/cats/): safe, go-easy and never-feed foods with sources
+- [What can chickens eat?](https://fscholtesdowd.github.io/pet-safe-foods/chickens/): safe, go-easy and never-feed foods with sources
+- [What can parrots eat?](https://fscholtesdowd.github.io/pet-safe-foods/parrots/): safe, go-easy and never-feed foods with sources
+- [What can budgies eat?](https://fscholtesdowd.github.io/pet-safe-foods/budgies/): safe, go-easy and never-feed foods with sources
+- [What can bearded dragons eat?](https://fscholtesdowd.github.io/pet-safe-foods/bearded-dragons/): safe, go-easy and never-feed foods with sources
+- [What can ferrets eat?](https://fscholtesdowd.github.io/pet-safe-foods/ferrets/): safe, go-easy and never-feed foods with sources
+- [What can tortoises eat?](https://fscholtesdowd.github.io/pet-safe-foods/tortoises/): safe, go-easy and never-feed foods with sources
+
+## Other tools
+
+- [Planting Dates USA](https://fscholtesdowd.github.io/planting-dates/)
+- [Firewood Winter Calculator](https://fscholtesdowd.github.io/firewood-calculator/)
+- [Good Bug, Bad Bug](https://fscholtesdowd.github.io/good-bug-bad-bug/)
+- [Regen Farm Field Log](https://fscholtesdowd.github.io/regen-farm-log/)
