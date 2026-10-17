@@ -1,5 +1,5 @@
 {
- "built": "2026-09-26",
+ "built": "2026-10-17",
  "species": {
   "hamsters": {
    "safe": [
@@ -38,18 +38,18 @@
   },
   "guinea-pigs": {
    "safe": [
-    "Grass hay — timothy, orchard & other low-calcium hay",
+    "Grass hay — timothy, orchard & other grass hay",
     "Bell peppers — red or green",
     "Leaf lettuces — romaine, red leaf, green leaf",
     "Tomato — the ripe fruit only",
     "Cucumber",
-    "Greens to rotate — kale, collards, beet greens, cilantro, parsley, endive",
+    "A mix of veggies & greens — 5 or 6 kinds a day",
     "Carrot tops — the leafy greens",
-    "Turnip, asparagus & squash",
+    "Turnip greens — a vitamin C green",
     "Fortified guinea pig pellets — a measured scoop"
    ],
    "moderation": [
-    "Fruit — apple, pear, orange, kiwi, berries",
+    "Fruit — apple, pear, banana, kiwi, melon",
     "Carrots — the orange root",
     "Alfalfa hay & alfalfa pellets",
     "Pellets past the scoop",
@@ -59,20 +59,23 @@
     "Avocado — fruit, pit, stems & leaves",
     "Chocolate, cocoa & anything with caffeine",
     "Onion family — onion, garlic, chives, leeks",
-    "Iceberg & head lettuce",
-    "Seeds, nuts, oats & dry cereal",
+    "Iceberg lettuce",
+    "Lawnmower clippings",
     "Candy, sugary treats & yogurt drops",
     "Green potato parts & nightshade leaves",
     "Meat, dairy & anything from an animal"
    ],
    "sources": [
-    "VCA Animal Hospitals, 'Guinea Pigs: Feeding' (Gregory Rich, DVM; Laurie Hess, DVM; Rick Axelson, DVM — LifeLearn, updated Aug 2026)",
     "Merck Veterinary Manual (professional version), 'Housing and Nutrition of Guinea Pigs' (Miranda J. Sadar, DVM, DACZM, Colorado State University; full review May 2026)",
     "Merck Veterinary Manual (pet owner version), 'Common Health Problems of Guinea Pigs' (Laurie Hess, DVM, DABVP; Oct 2025)",
     "Merck Veterinary Manual, 'Avocado (Persea spp) Toxicosis in Animals' (Hayes, DVM, ASPCA Animal Poison Control Center; rev. Sept 2024)",
     "Merck Veterinary Manual, 'Chocolate Toxicosis in Animals' (Hayes, DVM, ASPCA Animal Poison Control Center; last updated Feb 2026)",
     "Merck Veterinary Manual, 'Garlic and Onion (Allium spp) Toxicosis in Animals' (Hayes, DVM, ASPCA Animal Poison Control Center; rev. Sept 2024)",
-    "Cornell University Dept. of Animal Science, Plants Poisonous to Livestock: 'Steroid Alkaloids' (solanine)"
+    "Cornell University Dept. of Animal Science, Plants Poisonous to Livestock: 'Steroid Alkaloids' (solanine)",
+    "RSPCA (UK), \"What to feed a guinea pig\"",
+    "PDSA, \"Your guinea pig's diet\"",
+    "Merck Veterinary Manual (pet owner version), \"Diet for a Guinea Pig\" (Laurie Hess, DVM, DABVP; last updated Oct 2025)",
+    "Merck Veterinary Manual (pet owner version), \"Nutritional Problems of Guinea Pigs\" (Laurie Hess, DVM, DABVP; last updated Oct 2025)"
    ],
    "etsy": "https://www.etsy.com/listing/4563778801/what-can-guinea-pigs-eat-safe-unsafe",
    "gumroad": "https://wealthywellness0.gumroad.com/l/mlrjxq"
@@ -115,7 +118,7 @@
     "RSPCA Australia Knowledgebase, 'What should I feed my rabbits?'",
     "Merck Veterinary Manual, 'Nutrition of Rabbits'",
     "Merck Veterinary Manual, 'Avocado (Persea spp) Toxicosis in Animals'",
-    "VCA Animal Hospitals, 'Gastrointestinal Stasis in Rabbits'"
+    "Merck Veterinary Manual (pet owner version), \"Digestive Disorders of Rabbits\" (Laurie Hess, DVM, DABVP; updated Jul 2026)"
    ],
    "etsy": "https://www.etsy.com/listing/4579413675/what-can-rabbits-eat-safe-unsafe-food",
    "gumroad": "https://wealthywellness0.gumroad.com/l/hfpljh"
@@ -125,10 +128,10 @@
     "A complete & balanced cat food (AAFCO statement)",
     "Canned (wet) cat food",
     "Plain cooked chicken or turkey",
-    "Plain canned pumpkin",
-    "Cooked, mashed sweet potato",
-    "Natural peanut butter",
-    "Apple slices — no seeds or core",
+    "Pumpkin",
+    "Carrots, peas, cucumber & asparagus",
+    "Blueberries, strawberries, banana & melon",
+    "Apple slices — no seeds",
     "Fresh water"
    ],
    "moderation": [
@@ -143,27 +146,23 @@
     "Alcohol & raw bread dough",
     "Raw meat, raw eggs & raw fish",
     "Canned fish sold for people (tuna, salmon, etc.)",
-    "Bones — raw or cooked",
+    "Raw bones",
     "Dog food, used as a cat's regular food",
     "Salt & salty snacks"
    ],
    "sources": [
     "ASPCA Animal Poison Control Center, \"People Foods to Avoid Feeding Your Pets\"",
     "Cornell University College of Veterinary Medicine, Cornell Feline Health Center, \"Feeding Your Cat\" (last updated Apr 2026)",
-    "VCA Animal Hospitals, \"Household Hazards - Toxic Hazards for Cats\" (Renee Schmid, DVM, DABT, DABVT for Pet Poison Helpline; Ahna Brutlag, DVM, DABT, DABVT; Ernest Ward, DVM)",
-    "VCA Animal Hospitals, \"Fall Food Dos and Don'ts for Cats\" (Urgent Care)",
-    "VCA Animal Hospitals, \"Avoiding Raw Food in Cats\" (Caitlin Grant, DVM, DVSc, Dip ECVCN; Tammy Hunter, DVM; Robin Downing, DVM)",
-    "VCA Animal Hospitals, \"Nutrition: General Feeding Guidelines for Cats\" (Caitlin Grant, DVM, DVSc, Dip ECVCN; Ryan Llera, DVM; Ernest Ward, DVM; last updated Aug 2025)",
-    "VCA Animal Hospitals, \"Cat Treats\" (Caitlin Grant, DVM, DVSc, Dip ECVCN; Courtney Barnes, DVM; Krista Williams, DVM; Robin Downing, DVM; last updated Sept 2024)",
-    "VCA Animal Hospitals, \"Taurine in Cats\" (Malcolm Weir, DVM; Ryan Llera, DVM; Cheryl Yuill, DVM)",
-    "VCA Animal Hospitals, \"Thiamine\" (Alison Hamilton, DVM)",
-    "VCA Animal Hospitals, \"Bland Diet Instructions for Dogs and Cats\" (Caitlin Grant, DVM, DVSc, Dip ECVCN; Lynn Buzhardt, DVM)",
     "Merck Veterinary Manual, \"Garlic and Onion (Allium spp) Toxicosis in Animals\" (Cristine Hayes, DVM, ASPCA Animal Poison Control Center; rev. Sept 2024)",
     "Merck Veterinary Manual, \"Chocolate Toxicosis in Animals\" (Cristine Hayes, DVM, ASPCA Animal Poison Control Center; last updated Feb 2026)",
     "Merck Veterinary Manual, \"Grape, Raisin, and Tamarind (Vitis spp, Tamarindus spp) Toxicosis in Dogs\" (Cristine Hayes, DVM, ASPCA Animal Poison Control Center; rev. Sept 2024)",
     "Merck Veterinary Manual, \"Xylitol Toxicosis in Dogs\" (Cristine Hayes, DVM, ASPCA Animal Poison Control Center; last updated Jun 2025)",
     "Merck Veterinary Manual, \"Houseplants and Ornamentals Toxic to Animals\" (Renee D. Schmid, DVM, DABT, DABVT, Pet Poison Helpline; last updated Sept 2024)",
-    "Merck Veterinary Manual, \"Nutritional Requirements of Small Animals\" (Sherry Lynn Sanderson, DVM, PhD, Univ. of Georgia; last updated Sept 2024)"
+    "Merck Veterinary Manual, \"Nutritional Requirements of Small Animals\" (Sherry Lynn Sanderson, DVM, PhD, Univ. of Georgia; last updated Sept 2024)",
+    "PDSA (People's Dispensary for Sick Animals), \"The best diet for your cat\" (written by PDSA vets and nurses with Animal PoisonLine; published Jan 2024)",
+    "PDSA, \"My cat has eaten something harmful\" (published June 2023)",
+    "Merck Veterinary Manual (pet owner version), \"Proper Nutrition for Cats\" (Nick Roman, DVM, MPH; last updated Jul 2025)",
+    "RSPCA (UK), \"What to feed your pet cat\""
    ],
    "etsy": "https://www.etsy.com/listing/4567432258/what-can-cats-eat-safe-unsafe-food-chart",
    "gumroad": "https://wealthywellness0.gumroad.com/l/ispgf"
@@ -233,32 +232,33 @@
    ],
    "moderation": [
     "Seeds & nuts as an occasional treat",
-    "Cooked egg, lean meat, fish & a little cheese",
-    "Any wholesome family food, tiny amounts",
-    "Iceberg lettuce & celery",
+    "Vitamin A-rich extras (sweet potato, collards, endive)",
+    "High-fat table foods",
+    "Vitamin & mineral supplements",
     "Extra daily seeds -- budgies, lovebirds, cockatiels & parrotlets only"
    ],
    "never": [
     "Avocado",
-    "Onion",
-    "Chocolate",
-    "Caffeine -- coffee, tea & soda",
-    "Alcohol"
+    "An all-seed diet or seed mix",
+    "Moldy or old seeds & peanuts in the shell",
+    "Very salty foods",
+    "Large doses of vitamin A supplements"
    ],
    "sources": [
-    "RSPCA, 'What to Feed Your Pet Bird | Parrot Diet'",
-    "VCA Animal Hospitals, 'Cockatiels - Feeding'",
-    "VCA Animal Hospitals, 'Macaws - Feeding'",
-    "Merck Veterinary Manual, 'Avocado (Persea spp) Toxicosis in Animals'",
-    "Merck Veterinary Manual, 'Chocolate Toxicosis in Animals'",
-    "Merck Veterinary Manual (professional version), 'Nutritional Diseases of Pet Birds'"
+    "RSPCA (UK), \"Birds diet: the right food for your bird\" (parrot diet)",
+    "Merck Veterinary Manual (pet owner version), \"Feeding a Pet Bird\" (Laurie Hess, DVM, DABVP; updated Mar 2026)",
+    "Merck Veterinary Manual (pet owner version), \"Nutritional Disorders of Pet Birds\" (Laurie Hess, DVM, DABVP; updated May 2026)",
+    "Merck Veterinary Manual (pet owner version), \"Household Hazards for Pet Birds\" (Laurie Hess, DVM, DABVP; Apr 2025)",
+    "Merck Veterinary Manual, \"Avocado (Persea spp) Toxicosis in Animals\"",
+    "Merck Veterinary Manual, \"Salt Toxicosis in Animals\""
    ],
    "etsy": "https://www.etsy.com/listing/4580919458/what-can-parrots-eat-safe-unsafe-food",
    "gumroad": "https://wealthywellness0.gumroad.com/l/rstykd"
   },
   "budgies": {
    "safe": [
-    "Apple",
+    "Complete pellets",
+    "Apple (de-seeded)",
     "Carrot",
     "Broccoli",
     "Blueberry",
@@ -266,106 +266,119 @@
     "Sweet potato"
    ],
    "moderation": [
-    "Seed mixes & millet",
-    "Iceberg lettuce & celery",
-    "Dairy (cheese, yogurt, milk)"
+    "Seeds (no more than a tenth of the diet)",
+    "Seed & pellet mixes",
+    "High-fat table foods & nuts",
+    "Vitamin & mineral supplements"
    ],
    "never": [
     "Avocado",
-    "Chocolate, caffeine & alcohol",
-    "Very salty foods (chips, pretzels, popcorn)",
-    "Processed, fried & buttery foods"
+    "An all-seed diet",
+    "Moldy or old seeds & peanuts in the shell",
+    "Very salty foods"
    ],
    "sources": [
-    "VCA Animal Hospitals, 'Feeding Budgies'",
-    "Merck Veterinary Manual, 'Avocado (Persea spp) Toxicosis in Animals'",
-    "Merck Veterinary Manual, 'Nutritional Diseases of Pet Birds'",
-    "RSPCA (UK), pet bird diet advice"
+    "RSPCA (UK), \"Birds diet: the right food for your bird\"",
+    "Merck Veterinary Manual (pet owner version), \"Feeding a Pet Bird\" (Laurie Hess, DVM, DABVP; updated Mar 2026)",
+    "Merck Veterinary Manual (pet owner version), \"Nutritional Disorders of Pet Birds\" (Laurie Hess, DVM, DABVP; updated May 2026)",
+    "Merck Veterinary Manual (pet owner version), \"Household Hazards for Pet Birds\" (Laurie Hess, DVM, DABVP; Apr 2025)",
+    "Merck Veterinary Manual, \"Avocado (Persea spp) Toxicosis in Animals\"",
+    "Merck Veterinary Manual, \"Salt Toxicosis in Animals\""
    ],
    "etsy": "https://www.etsy.com/listing/4582112626/what-can-budgies-eat-safe-unsafe-food",
    "gumroad": "https://wealthywellness0.gumroad.com/l/ukrwug"
   },
   "bearded-dragons": {
    "safe": [
-    "Collard, turnip & dandelion greens",
-    "Bell peppers & bok choy",
-    "Broccoli & cilantro",
-    "Calcium-dusted crickets, mealworms & dubia roaches",
-    "Silkworms & hornworms",
-    "Fresh water"
+    "Watercress, rocket, chicory & cress",
+    "Grated butternut squash",
+    "Dandelion, clover & plantain leaves",
+    "Collard greens & okra",
+    "Crickets, locusts & calciworms",
+    "Fresh water in a large, shallow dish"
    ],
    "moderation": [
-    "Fruit (apple, banana, grapes/raisins, mango)",
-    "Flowers (hibiscus, dandelions, roses)",
-    "Waxworms & superworms",
-    "Pinkie or fuzzy mice",
-    "Swiss chard, spinach & beet greens",
-    "Cabbage, kale & mustard greens"
+    "Cabbage & kale",
+    "Vitamin & mineral powders on live food",
+    "Clean children's play sand (healthy adults only)"
    ],
    "never": [
-    "Fireflies",
-    "Wild-caught insects (yard or garden)",
-    "Feeding on loose sand, walnut shell, or calci-sand"
+    "Spinach",
+    "Calci-sand & loose chunky substrates (bark, wood chips, crushed walnut, corn cob)",
+    "Live food bigger than the dragon's mouth",
+    "Uneaten live food left in the vivarium"
    ],
    "sources": [
-    "VCA Animal Hospitals, 'Bearded Dragons: Feeding'",
-    "VCA Animal Hospitals, 'Bearded Dragons - Housing'",
-    "Merck Veterinary Manual, 'Nutritional, Metabolic, and Endocrine Diseases of Reptiles'"
+    "RSPCA (UK), \"Caring for your bearded dragon\"",
+    "Merck Veterinary Manual (pet owner version), \"Providing a Home for a Reptile\" (Stephen J. Divers, BVetMed, DACZM, DECZM, FRCVS; updated Jun 2026)",
+    "Merck Veterinary Manual, \"Nutritional, Metabolic, and Endocrine Diseases of Reptiles\""
    ],
    "etsy": "https://www.etsy.com/listing/4582120113/what-can-bearded-dragons-eat-safe-unsafe",
    "gumroad": "https://wealthywellness0.gumroad.com/l/rpxjxf"
   },
   "ferrets": {
    "safe": [
-    "Ferret-specific dry kibble",
-    "Whole-meat diets (properly balanced)",
-    "Growth-formula food (for kits)",
-    "Pregnancy/nursing-formula food",
-    "Senior-formula food",
-    "Fresh water"
+    "Ferret food (dry kibble)",
+    "Pieces of meat",
+    "Boiled egg & cooked chicken",
+    "Freeze-dried muscle or organ meat",
+    "A food that fits the ferret's age and health",
+    "Fresh, clean water"
    ],
    "moderation": [
-    "Cooked meat or meat baby food",
-    "\"Duck soup\" liquid supplement",
-    "Any other people food or snack food"
+    "Treats of any kind",
+    "Cat or kitten food",
+    "Raw meat & raw-meat diets",
+    "Soft or wet food"
    ],
    "never": [
     "Chocolate",
-    "Sweets & sugary treats",
-    "Dairy products",
-    "Raisins",
-    "Fresh fruit",
-    "Vegetables"
+    "Sugary foods: honey, raisins & fruit",
+    "Grapes, raisins, sultanas & currants",
+    "Milk, dairy, bread & cereals",
+    "Plant-protein diets (including pea protein)",
+    "Xylitol (sugar-free gum, mints, some peanut butter)"
    ],
    "sources": [
-    "VCA Animal Hospitals, 'Ferrets: Feeding'"
+    "RSPCA (UK), \"What to feed your ferrets\"",
+    "RSPCA (UK), \"Common ferret poisons\"",
+    "PDSA, \"Ferrets as pets\"",
+    "Merck Veterinary Manual (pet owner version), \"Providing a Home for a Ferret\" (Cornell Univ.; updated Sept 2024)",
+    "Merck Veterinary Manual (professional version), \"Management of Ferrets\"",
+    "Merck Veterinary Manual (pet owner version), \"Other Noninfectious Diseases of Ferrets\""
    ],
    "etsy": "https://www.etsy.com/listing/4582131676/what-can-ferrets-eat-safe-unsafe-food",
    "gumroad": "https://wealthywellness0.gumroad.com/l/sofzy"
   },
   "tortoises": {
    "safe": [
-    "Spring mix & mixed leafy greens",
-    "Kale & collard greens",
-    "Turnip greens & broccoli leaves",
-    "Chemical-free hibiscus flowers",
-    "Pesticide-free grass (foraging)",
-    "Fresh water"
+    "Leafy greens — romaine, green leaf lettuce, endive",
+    "Kale",
+    "Collard greens, okra & sprouts",
+    "Green beans & shredded carrots",
+    "A formulated tortoise pellet diet",
+    "Short-cut hay (large tortoises)",
+    "Fresh water & a soak"
    ],
    "moderation": [
     "Fruit",
-    "Earthworms & mealworms",
-    "Mazuri tortoise food (or a similar reputable brand)"
+    "Broccoli, bok choy & cabbage",
+    "Calcium & vitamin D3 supplements"
    ],
    "never": [
-    "Iceberg lettuce",
-    "High-meat diets",
-    "A poor-quality commercial diet",
-    "Unknown garden shrubs & ornamental bushes"
+    "High-protein diets (meat and meat-based foods)",
+    "Cat food & other high-protein pet foods",
+    "A diet with no calcium or vitamin D3 support",
+    "Long-strand hay (for large tortoises)"
    ],
    "sources": [
-    "VCA Animal Hospitals, 'Owning a Tortoise'",
-    "VCA Animal Hospitals, 'Common Diseases of Tortoises'"
+    "Merck Veterinary Manual (professional version), \"Nutrition in Tortoises\" (Joeke Nijboer, PhD; Anouk Fens, MSc; Sept 2025)",
+    "Merck Veterinary Manual (pet owner version), \"Providing a Home for a Reptile\" (Stephen J. Divers, BVetMed, DACZM, DECZM, FRCVS, Univ. of Georgia; updated Jun 2026)",
+    "Merck Veterinary Manual (pet owner version), \"Special Considerations for Reptiles\" (Stephen J. Divers, BVetMed, DACZM, DECZM, FRCVS; updated May 2026)",
+    "Merck Veterinary Manual (pet owner version), \"Disorders and Diseases of Reptiles\" (Stephen J. Divers, BVetMed, DACZM, DECZM, FRCVS; updated Jun 2026)",
+    "Merck Veterinary Manual (professional version), \"Nutrition in Reptiles\" (Joeke Nijboer, PhD; Anouk Fens, MSc; Sept 2025)",
+    "Merck Veterinary Manual (professional version), \"Nutritional, Metabolic, and Endocrine Diseases of Reptiles\" (Stephen J. Divers, BVetMed, DACZM, DECZM, FRCVS; Jul 2025)",
+    "Merck Veterinary Manual (pet owner version), \"Selecting a Reptile\" (Stephen J. Divers, BVetMed, DACZM, DECZM, FRCVS; updated Jun 2026)"
    ],
    "etsy": "https://www.etsy.com/listing/4582132096/what-can-tortoises-eat-safe-unsafe-food",
    "gumroad": "https://wealthywellness0.gumroad.com/l/bgvrst"
